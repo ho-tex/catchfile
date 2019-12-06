@@ -5,7 +5,6 @@ module = "catchfile"
 
 installfiles = {
 '*.sty',
-'catchfile-showcases.tex',
 '*.dtx','*.pdf'
 }
 
@@ -21,7 +20,7 @@ checkruns = 2
 tdslocations={
 "doc/latex/catchfile/catchfile.pdf",
 "source/latex/catchfile/catchfile.dtx",
-"tex/generic/catchfile/catchfile.sty",
+"tex/generic/catchfileober/catchfile.sty",
 }
 
 function update_tag(file,content,tagname,tagdate)
