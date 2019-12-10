@@ -20,7 +20,7 @@ checkruns = 2
 tdslocations={
 "doc/latex/catchfile/catchfile.pdf",
 "source/latex/catchfile/catchfile.dtx",
-"tex/generic/catchfileober/catchfile.sty",
+"tex/generic/catchfile/catchfile.sty",
 }
 
 function update_tag(file,content,tagname,tagdate)
